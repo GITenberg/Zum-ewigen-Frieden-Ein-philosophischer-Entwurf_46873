@@ -1,4 +1,8 @@
 _repo: Zum-ewigen-Frieden-Ein-philosophischer-Entwurf_46873
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46873-h/images/cover.jpg
 creator:
   author:
     agent_name: Kant, Immanuel
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1426
     wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46873#Zum-ewigen-Frieden-Ein-philosophischer-Entwurf
 gutenberg_issued: '2014-09-16'
 gutenberg_type: Text
 identifiers:
